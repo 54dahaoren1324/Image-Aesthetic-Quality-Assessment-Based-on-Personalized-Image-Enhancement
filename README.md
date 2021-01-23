@@ -34,6 +34,6 @@ Then, users need to modify the image according to their own aesthetic taste thro
 ### rerank
 After the user completes a round of retouching, they move on to the next step. In this step, the interface displays the original image that the user previously rated. Users need to re-rate the images and download them for storage.
 ### submit
-Pictures stored by users through the above operations are packaged and uploaded, and the results are obtained by our background analysis and processing
+Pictures stored by users through the above operations are packaged and uploaded, and the results are obtained by our background analysis and processing.
 
 
